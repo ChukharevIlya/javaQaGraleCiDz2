@@ -1,0 +1,1 @@
+[![Build status](https://ci.appveyor.com/api/projects/status/2c8nbv6ut0we2879?svg=true)](https://ci.appveyor.com/project/ChukharevIlya/javaqagralecidz2)
